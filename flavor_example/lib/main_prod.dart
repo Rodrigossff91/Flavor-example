@@ -1,0 +1,8 @@
+import 'package:flutter/material.dart';
+import 'app.dart';
+import 'flavors.dart';
+import 'main_flavor.dart';
+
+void main() {
+  buildFlavor(Flavor.PROD);
+}
